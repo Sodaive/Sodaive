@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suda</h1>
 <h3 align="center">An AI intern & enthusiast 🤖🧠</h3>
 
-- 🔭 I’m currently working on **Teaching a NLP Model**
+- 🔭 I’m currently working on **Teaching a NLP Model.**
 
 - 🌱 I’m currently learning **SKlearn, Pytorch, Seaborn, OpenCV, Data Science, Docker, Making neuron brain and my own NLP Model . . .**
 
