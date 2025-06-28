@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Teaching a NLP Model.**
 
-- 🌱 I’m currently learning **SKlearn, Pytorch, Seaborn, OpenCV, Data Science, Docker, Making neuron brain and my own NLP Model . . .**
+- 🌱 I’m currently learning **SKlearn, Pytorch, Seaborn, OpenCV, Data Science, Docker and making neuron brain and my own NLP Model . . .**
 
 - 👯 I’m looking to collaborate on [MetaVerse project](https://www.meta.com/metaverse/)
 
