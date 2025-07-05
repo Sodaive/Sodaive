@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MetaVerse project](https://www.meta.com/metaverse/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sodaive](https://github.com/Sodaive)
+- 👨‍💻 All of my projects are available at [https://github.com/Sodaive](https://github.com/Sodaive?tab=repositories)
 
 - 💬 Ask me about **Currently nothing . .**
 
